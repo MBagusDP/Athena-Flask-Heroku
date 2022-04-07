@@ -1,0 +1,6 @@
+Flask
+gunicorn
+pandas
+Sastrawi
+Werkzeug
+scikit-learn
